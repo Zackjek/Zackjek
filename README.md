@@ -1,7 +1,5 @@
 ### 👋 Hello! I'm Muhammad Zaky Mubarok
 
-
-
 I'm an Informatics student at Telkom University Purwokerto. **I'm currently focused on learning Web Development.**
 
 <br>
@@ -11,9 +9,10 @@ I'm an Informatics student at Telkom University Purwokerto. **I'm currently focu
 ### 📈 My GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zackjek&show_icons=true&theme=dark" alt="Zackjek's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zackjek&layout=compact&theme=dark" alt="Zackjek's Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zackjek&show_icons=true&theme=dark" height="165" alt="Zackjek's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zackjek&layout=compact&theme=dark" height="165" alt="Zackjek's Top Langs" />
 </p>
+
 ---
 
 ### 💻 Technologies & Tools
