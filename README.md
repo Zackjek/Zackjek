@@ -10,9 +10,9 @@ I'm an Informatics student at Telkom University Purwokerto. **I'm currently focu
 
 ### 📈 My GitHub Stats
 
-[![Zackjek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zackjek&show_icons=true&theme=tokyonight)](https://github.com/Zackjek)
+![Zackjek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zackjek&show_icons=true&theme=tokyonight)](https://github.com/Zackjek)
 
-[![Zackjek's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zackjek&layout=compact&theme=tokyonight)](https://github.com/Zackjek)
+![Zackjek's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zackjek&layout=compact&theme=tokyonight)](https://github.com/Zackjek)
 
 ---
 
